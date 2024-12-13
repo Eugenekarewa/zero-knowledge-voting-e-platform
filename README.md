@@ -10,6 +10,11 @@ A secure and private electronic voting system built with React, TypeScript, and 
 - User-friendly Material UI interface
 - Complete voter privacy protection
 - Prevention of double voting
+- Secure and efficient verification of votes
+- Real-time updates of vote counts
+- User-friendly interface for voters and administrators
+- Secure and efficient verification of votes
+- 
 
 ## Tech Stack
 
